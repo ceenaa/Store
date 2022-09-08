@@ -1,3 +1,7 @@
+# Created by https://www.toptal.com/developers/gitignore/api/codeblocks,c++
+# Edit at https://www.toptal.com/developers/gitignore?templates=codeblocks,c++
+
+### C++ ###
 # Prerequisites
 *.d
 
@@ -30,3 +34,13 @@
 *.exe
 *.out
 *.app
+
+### CodeBlocks ###
+# specific to CodeBlocks IDE
+*.layout
+*.depend
+# generated directories
+bin/
+obj/
+
+# End of https://www.toptal.com/developers/gitignore/api/codeblocks,c++
